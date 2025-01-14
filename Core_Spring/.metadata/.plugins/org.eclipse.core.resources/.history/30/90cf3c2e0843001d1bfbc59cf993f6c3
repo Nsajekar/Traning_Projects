@@ -1,0 +1,8 @@
+package com.euronet.main.repository;
+
+import com.euronet.main.domain.BookIssueDetails;
+
+public interface BookIssueDetailsrepositoryInterface {
+
+	boolean issueNewBook(BookIssueDetails  bookIssueDetails); 
+}

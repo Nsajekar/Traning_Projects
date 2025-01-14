@@ -1,0 +1,21 @@
+package com.euronet.main;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.euronet.main.domain.BookIssueDetails;
+
+public class LMSClientV2 {
+
+	public static void main(String[] args) {
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext(
+				"spring.xml");
+
+		BookIssueDetails bookIssueDetails = applicationContext.getBean(
+				"bookIssueDetails", BookIssueDetails.class);
+
+		System.out.println(bookIssueDetails);
+
+	}
+
+}

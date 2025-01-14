@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.euronet.main.domain&apos; to &apos;06_Rating_details_Service/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;05_MovieDetails_Service&apos;&#x0D;&#x0A;- Destination element: &apos;06_Rating_details_Service/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;05_MovieDetails_Service/src/main/java/com.euronet.main.domain&apos;" description="Copy package" destination="=06_Rating_details_Service/src\/main\/java" element1="/src\/main\/java&lt;com.euronet.main.domain" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1665644888019" version="1.0"/>
+</session>

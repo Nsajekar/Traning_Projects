@@ -1,0 +1,10 @@
+INDEX VERSION 1.127+D:\Euronet_Training\Design_Pattern\.metadata\.plugins\org.eclipse.jdt.core
+1470015476.index
+1425556595.index
+784622327.index
+92491330.index
+88873614.index
+3068321671.index
+2564910120.index
+872151480.index
+287264273.index

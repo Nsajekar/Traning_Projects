@@ -1,0 +1,23 @@
+package com.euronet.main.repository;
+
+import java.sql.Date;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.time.LocalDate;
+
+import org.springframework.jdbc.core.RowMapper;
+
+import com.euronet.main.domain.BookIssueDetails;
+
+public class BookIssueDetailsMapper implements RowMapper<BookIssueDetails> {
+
+	@Override
+	public BookIssueDetails mapRow(ResultSet rs, int rowNum) throws SQLException {
+		int bookissuecode = rs.getInt("issue_serial_number");
+	    
+		Date issuedatefromdb = rs.getDate("issue_date");
+		LocalDate issuedate = issuedatefromdb.toLocalDate();
+		return null;
+	}
+
+}

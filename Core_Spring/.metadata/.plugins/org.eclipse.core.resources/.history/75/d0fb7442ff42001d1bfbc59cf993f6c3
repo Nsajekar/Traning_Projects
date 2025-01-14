@@ -1,0 +1,5 @@
+package com.euronet.main.repository;
+
+public class MemberDetailsRepository implements MemberDetailsRepositoryInterface {
+
+}

@@ -1,0 +1,22 @@
+package com.euronet.main.repository;
+
+import java.util.List;
+
+import com.euronet.main.domain.BookIssueDetails;
+
+public class BookIssueDetailsRepository implements
+		BookIssueDetailsrepositoryInterface {
+
+	@Override
+	public boolean issueNewBook(BookIssueDetails bookIssueDetails) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public List<BookIssueDetails> getAllIssueDetails() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

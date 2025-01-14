@@ -1,0 +1,23 @@
+package com.euronet.main.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.euronet.main.domain.MemberDetails;
+@Service
+public class MemberDetailsService implements MemberDetailsServiceInterface {
+	@Autowired
+	private MemberDetailsServiceInterface memberDetailsServiceInterface;
+
+	@Override
+	public MemberDetails getMemberDetailsByMemberCode(int membercode) {
+		return null;
+	}
+
+	@Override
+	public boolean updateBookIssueCountByMemberCode(MemberDetails memberDetails) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

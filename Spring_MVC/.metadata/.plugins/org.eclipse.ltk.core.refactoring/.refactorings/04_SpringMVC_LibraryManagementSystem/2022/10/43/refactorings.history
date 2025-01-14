@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;mysql-connector-java-8.0.30.jar&apos; to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;04_SpringMVC_LibraryManagementSystem&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original element: &apos;04_SpringMVC_LibraryManagementSystem/WebContent/WEB-INF/lib/mysql-connector-java-8.0.30.jar&apos;" description="Copy source folder" element1="/WebContent\/WEB-INF\/lib\/mysql-connector-java-8.0.30.jar" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1666249987489" target="/05_SpringMVC_Login/WebContent/WEB-INF/lib" version="1.0"/>
+</session>

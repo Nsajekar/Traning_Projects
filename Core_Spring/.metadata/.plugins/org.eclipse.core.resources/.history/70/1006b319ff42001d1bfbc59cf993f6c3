@@ -1,0 +1,19 @@
+package com.euronet.main.service;
+
+import com.euronet.main.domain.MemberDetails;
+
+public class MemberDetailsService implements MemberDetailsServiceInterface {
+
+	@Override
+	public MemberDetails getMemberDetailsByMemberCode(int membercode) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean updateBookIssueCountByMemberCode(MemberDetails memberDetails) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

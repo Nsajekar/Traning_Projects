@@ -1,0 +1,27 @@
+package com.euronet.main.repository;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Repository;
+
+import com.euronet.main.domain.BookIssueDetails;
+@Repository
+public class BookIssueDetailsRepository implements
+		BookIssueDetailsrepositoryInterface {
+	@Autowired
+	private JdbcTemplate jdbcTemplet;
+
+	@Override
+	public boolean issueNewBook(BookIssueDetails bookIssueDetails) {
+		
+		return false;
+	}
+
+	@Override
+	public List<BookIssueDetails> getAllIssueDetails() {
+		return null;
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.euronet.main;
+
+import com.euronet.main.domain.BookDetails;
+import com.euronet.main.domain.BookIssueDetails;
+import com.euronet.main.domain.MemberDetails;
+
+public class LMSClient {
+public static void main(String[] args) {
+	BookDetails bookDetails =new BookDetails(101, "Harry potter", "J.k.Rowing", 500, true);
+	MemberDetails memberDetails =new MemberDetails(membercode, firstname, lastname, membertype, bookissuecount);
+	BookIssueDetails bookIssueDetails =new BookIssueDetails(101, 2022-02-01, 2022-02-09, bookDetails, memberDetails);
+	
+}
+}

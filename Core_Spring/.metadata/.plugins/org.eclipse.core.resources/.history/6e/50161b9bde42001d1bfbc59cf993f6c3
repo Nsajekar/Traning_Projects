@@ -1,0 +1,5 @@
+package com.euronet.main.repository;
+
+public interface BookDetailsRepositoryInterface {
+
+}

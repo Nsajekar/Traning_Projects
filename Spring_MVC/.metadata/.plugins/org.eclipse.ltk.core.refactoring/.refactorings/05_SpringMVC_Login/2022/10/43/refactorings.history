@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;jsp&apos;&#x0D;&#x0A;- Original project: &apos;05_SpringMVC_Login&apos;&#x0D;&#x0A;- Destination element: &apos;jsp&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     studentpage.jsp&#x0D;&#x0A;     facultypage.jsp&#x0D;&#x0A;     adminpage.jsp" description="Copy files" element1="WebContent/WEB-INF/jsp/studentpage.jsp" element2="WebContent/WEB-INF/jsp/facultypage.jsp" element3="WebContent/WEB-INF/jsp/adminpage.jsp" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1666335416704" target="/06_SpringMVC_Login/WebContent/WEB-INF/jsp" units="0" version="1.0"/>
+</session>

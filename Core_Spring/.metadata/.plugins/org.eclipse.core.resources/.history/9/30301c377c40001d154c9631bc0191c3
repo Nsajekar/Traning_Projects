@@ -1,0 +1,9 @@
+package com.euronet.main.domain;
+
+public class MemberDetails {
+private int membercode;
+private String firstname;
+private String lastname;
+private String membertype;
+
+}

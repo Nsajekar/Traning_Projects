@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.omg.CORBA.portable.ApplicationException"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ClassPathBeanDefinitionScanner"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.BookDetailsRowMapper"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.BookDetailsRepositoryInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.MemberDetailsRowMapper"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="net.bytebuddy.asm.Advice.Local"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.BookIssueDetailsrepositoryInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.BookIssueDetailsService"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.BookIssueDetailsMapper"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.MemberDetailsRepositoryInterface"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.MemberDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.BookDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.BookIssueDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.BookDetails"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.MemberDetails"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.BookIssueDetails"/>
+<fullyQualifiedTypeName name="com.euronet.main.LmsApllication"/>
+</qualifiedTypeNameHistroy>

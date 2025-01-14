@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=09_LMS/src\/main\/java&lt;com.euronet.main.service{MemberDetailsServiceInterface.java[MemberDetailsServiceInterface" modifiers="513" timestamp="1664789769692"/>
+<typeInfo handle="=09_LMS/C:\/Users\/nsajekar\/.m2\/repository\/org\/mockito\/mockito-core\/4.5.1\/mockito-core-4.5.1.jar&lt;org.mockito.plugins(MemberAccessor.class[MemberAccessor" modifiers="1537" timestamp="1660800272238"/>
+<typeInfo handle="=09_LMS/src\/main\/java&lt;com.euronet.main.repository{BookDetailsRepositoryInterface.java[BookDetailsRepositoryInterface" modifiers="513" timestamp="1664776052302"/>
+<typeInfo handle="=09_LMS/src\/main\/java&lt;com.euronet.main.repository{BookIssueDetailsrepositoryInterface.java[BookIssueDetailsrepositoryInterface" modifiers="513" timestamp="1664793793320"/>
+<typeInfo handle="=09_LMS/src\/main\/java&lt;com.euronet.main.service{BookDetailsServiceInterface.java[BookDetailsServiceInterface" modifiers="513" timestamp="1664776028564"/>
+<typeInfo handle="=09_LMS/C:\/Users\/nsajekar\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.3.23\/spring-jdbc-5.3.23.jar&lt;org.springframework.jdbc.core(RowMapper.class[RowMapper" modifiers="1537" timestamp="1664779903881"/>
+</typeInfoHistroy>

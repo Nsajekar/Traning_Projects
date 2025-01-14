@@ -1,0 +1,10 @@
+package com.euronet.main;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class LMSClient {
+	public static void main(String[] args) {
+		ApplicationContext applicationContext =new  ClassPathXmlApplicationContext("configuration.xml");
+	}
+}

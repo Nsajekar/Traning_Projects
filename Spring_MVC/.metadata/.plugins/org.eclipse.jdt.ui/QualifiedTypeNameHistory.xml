@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.euronet.main.service.BookDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.BookIssueDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="java.awt.print.Book"/>
+<fullyQualifiedTypeName name="com.euronet.main.controller.HomeController"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.BookDetails"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.BookIssueDetails"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.LoginRepositoryInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.LoginDetailsRowMapper"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.LoginService"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.LoginDetails"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+<fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.MemberDetailsRepositoryInterface"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.RoleDetailsRepository"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.MemberDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.RoleDetailsRepositoryInterface"/>
+<fullyQualifiedTypeName name="com.euronet.main.service.RoleDetailsServiceInterface"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.RoleDetailsMapper"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.euronet.main.repository.MemberDetailsRowMapper"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.RoleDetails"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.MemberDetails"/>
+<fullyQualifiedTypeName name="com.euronet.main.Super"/>
+<fullyQualifiedTypeName name="com.euronet.main.Subsub"/>
+<fullyQualifiedTypeName name="com.euronet.main.Third.Sub"/>
+</qualifiedTypeNameHistroy>

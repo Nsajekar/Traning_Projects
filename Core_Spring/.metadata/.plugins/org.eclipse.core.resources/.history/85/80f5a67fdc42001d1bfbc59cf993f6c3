@@ -1,0 +1,45 @@
+package com.euronet.main;
+
+import java.time.LocalDate;
+
+import com.euronet.main.domain.BookDetails;
+import com.euronet.main.domain.BookIssueDetails;
+import com.euronet.main.domain.MemberDetails;
+
+public class LMSClient {
+
+	public static void main(String[] args) {
+		BookDetails bookDetails = new BookDetails(111, "Harry Potter",
+				"J.K Rowling", 150, true);
+		MemberDetails memberDetails = new MemberDetails(123, "Ibrahim", "Khan",
+				"student", 1);
+		BookIssueDetails bookIssueDetails = new BookIssueDetails(101,
+				LocalDate.of(2022, 12, 1), LocalDate.of(2022, 12, 10),
+				bookDetails, memberDetails);
+
+		System.out.println("using parameterized constructor method");
+
+		System.out.println(bookIssueDetails);
+
+		System.out.println("using setter method");
+
+		bookDetails.setBookCode(222);
+		bookDetails.setTitle("Java OCJP");
+		bookDetails.setAuthor("Cathy Seirra");
+		bookDetails.setPrice(120);
+		bookDetails.setIssueable(true);
+
+		memberDetails.setMemberCode(202);
+		memberDetails.setFirstName("Nitesh");
+		memberDetails.setLastName("Sajekar");
+		memberDetails.setMemberType("student");
+		memberDetails.setBookIssuedCount(1);
+
+		bookIssueDetails.setIssueSerialNumber(1201);
+		bookIssueDetails.setIssueDate(LocalDate.of(2022, 11, 1));
+		bookIssueDetails.setReturnDate(LocalDate.of(2022, 11, 10));
+		bookIssueDetails.setBookDetails(bookDetails);
+		bookIssueDetails.setMemberDetails(memberDetails);
+
+	}
+}

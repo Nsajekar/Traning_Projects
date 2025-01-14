@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=06_SpringMVC_Login/src&lt;com.euronet.main.repository{MemberDetailsRepositoryInterface.java[MemberDetailsRepositoryInterface" modifiers="513" timestamp="1666847138094"/>
+<typeInfo handle="=06_SpringMVC_Login/D:\/Euronet_Training\/Spring_MVC\/06_SpringMVC_Login\/WebContent\/WEB-INF\/lib\/spring-jdbc-5.2.9.RELEASE.jar&lt;org.springframework.jdbc.core(RowCallbackHandler.class[RowCallbackHandler" modifiers="1537" timestamp="1664862608007"/>
+<typeInfo handle="=06_SpringMVC_Login/src&lt;com.euronet.main.service{RoleDetailsServiceInterface.java[RoleDetailsServiceInterface" modifiers="513" timestamp="1666335053615"/>
+<typeInfo handle="=06_SpringMVC_Login/C:\/Users\/nsajekar\/Downloads\/apache-tomcat-8.0.32\/apache-tomcat-8.0.32\/lib\/catalina.jar&lt;org.apache.catalina(Role.class[Role" modifiers="1537" timestamp="1454422100000"/>
+<typeInfo handle="=06_SpringMVC_Login/WebContent\/WEB-INF\/lib\/spring-jdbc-5.2.9.RELEASE.jar&lt;org.springframework.jdbc.core(RowMapper.class[RowMapper" modifiers="1537" timestamp="1664862608007"/>
+</typeInfoHistroy>

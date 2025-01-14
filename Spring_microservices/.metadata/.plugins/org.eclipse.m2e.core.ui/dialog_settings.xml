@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="443" key="x"/>
+		<item value="10" key="y"/>
+		<item value="531" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Euronet_Training\Spring_microservices\08_Discovery_Service_Movie_Project\08_Discovery_Service_Movie_Project"/>
+			<item value="D:\Euronet_Training\Spring_microservices\07_Catalog_Service\07_Catalog_Service"/>
+			<item value="D:\Euronet_Training\Spring_microservices\06_Rating_details_Service\06_Rating_details_Service"/>
+			<item value="C:\Users\nsajekar\Downloads\06_RatingDetails_Service\06_RatingDetails_Service"/>
+			<item value="D:\Euronet_Training\Spring_microservices\05_MovieDetails_Service"/>
+			<item value="C:\Users\nsajekar\Downloads\04_Discovery_Server\04_Discovery_Server"/>
+			<item value="C:\Users\nsajekar\Downloads\03_LMS_BookIssueDetails_Service\03_LMS_BookIssueDetails_Service"/>
+			<item value="C:\Users\nsajekar\Downloads\02_LMS_MemberDetails_Service\02_LMS_MemberDetails_Service"/>
+			<item value="C:\Users\nsajekar\Downloads\01_LMS_BookDetails_Service\01_LMS_BookDetails_Service"/>
+			<item value="D:\Euronet_Training\Spring_microservices\01_LMS_BookDetails_Service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+</section>

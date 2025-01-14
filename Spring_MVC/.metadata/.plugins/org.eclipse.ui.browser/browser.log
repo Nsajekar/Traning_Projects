@@ -1,0 +1,83 @@
+
+Oct 09, 2022 13:29:15.96 NEW SESSION
+Oct 09, 2022 13:29:15.96 [2022-10-09T07:59:15Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 09, 2022 13:29:15.97 [2022-10-09T07:59:15Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 09, 2022 13:29:16.02 [2022-10-09T07:59:16Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 10, 2022 09:04:23.71 NEW SESSION
+Oct 10, 2022 09:04:23.71 [2022-10-10T03:34:23Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping newtab
+Oct 10, 2022 10:46:44.03 [2022-10-10T05:16:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 10, 2022 10:46:44.04 [2022-10-10T05:16:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 10, 2022 10:46:44.04 [2022-10-10T05:16:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 13, 2022 14:20:43.96 NEW SESSION
+Oct 13, 2022 14:20:43.96 [2022-10-13T08:50:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 13, 2022 14:20:44.00 [2022-10-13T08:50:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 13, 2022 14:20:44.07 [2022-10-13T08:50:44Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 20, 2022 12:11:10.34 NEW SESSION
+Oct 20, 2022 12:11:10.34 [Parent 8664, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+Oct 20, 2022 12:11:10.58 [2022-10-20T06:41:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 12:11:10.59 [2022-10-20T06:41:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 12:11:10.59 [2022-10-20T06:41:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 12:28:58.32 [2022-10-20T06:58:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 12:28:58.34 [2022-10-20T06:58:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 12:28:58.35 [2022-10-20T06:58:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 20, 2022 12:31:45.58 NEW SESSION
+Oct 20, 2022 12:31:45.58 [2022-10-20T07:01:45Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping newtab
+
+Oct 20, 2022 19:45:37.92 NEW SESSION
+Oct 20, 2022 19:45:37.92 [2022-10-20T14:15:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 19:45:37.94 [2022-10-20T14:15:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 20, 2022 19:45:37.98 [2022-10-20T14:15:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 21, 2022 16:12:38.01 NEW SESSION
+Oct 21, 2022 16:12:38.01 [2022-10-21T10:42:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:12:38.01 [2022-10-21T10:42:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:12:38.03 [2022-10-21T10:42:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 21, 2022 16:44:26.86 NEW SESSION
+Oct 21, 2022 16:44:26.86 [2022-10-21T11:14:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:44:26.87 [2022-10-21T11:14:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:44:26.90 [2022-10-21T11:14:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:44:27.11 [2022-10-21T11:14:27Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:44:27.13 [2022-10-21T11:14:27Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 21, 2022 16:44:27.13 [2022-10-21T11:14:27Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 27, 2022 10:59:09.27 NEW SESSION
+Oct 27, 2022 10:59:09.27 [2022-10-27T05:29:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 10:59:09.28 [2022-10-27T05:29:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 10:59:09.29 [2022-10-27T05:29:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 10:59:09.68 [2022-10-27T05:29:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 10:59:09.69 [2022-10-27T05:29:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 10:59:09.70 [2022-10-27T05:29:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:06:52.29 [2022-10-27T05:36:52Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:06:52.33 [2022-10-27T05:36:52Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:06:52.34 [2022-10-27T05:36:52Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:06:52.76 [2022-10-27T05:36:52Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:06:52.77 [2022-10-27T05:36:52Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:06:52.77 [2022-10-27T05:36:52Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:28:24.50 [2022-10-27T05:58:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:28:24.53 [2022-10-27T05:58:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:28:24.57 [2022-10-27T05:58:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:28:24.86 [2022-10-27T05:58:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:28:24.88 [2022-10-27T05:58:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 11:28:24.88 [2022-10-27T05:58:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 16:40:31.40 [2022-10-27T11:10:31Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 16:40:31.45 [2022-10-27T11:10:31Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 16:40:31.55 [2022-10-27T11:10:31Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 17:28:42.18 [2022-10-27T11:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 17:28:42.21 [2022-10-27T11:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 17:28:42.24 [2022-10-27T11:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 17:28:51.97 [2022-10-27T11:58:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 17:28:51.98 [2022-10-27T11:58:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 27, 2022 17:28:51.99 [2022-10-27T11:58:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 28, 2022 17:11:25.21 NEW SESSION
+Oct 28, 2022 17:11:25.21 [2022-10-28T11:41:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 28, 2022 17:11:25.30 [2022-10-28T11:41:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 28, 2022 17:11:25.37 [2022-10-28T11:41:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 28, 2022 17:11:37.49 [2022-10-28T11:41:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 28, 2022 17:11:37.59 [2022-10-28T11:41:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 28, 2022 17:11:37.61 [2022-10-28T11:41:37Z ERROR viaduct::backend::ffi] Missing HTTP status

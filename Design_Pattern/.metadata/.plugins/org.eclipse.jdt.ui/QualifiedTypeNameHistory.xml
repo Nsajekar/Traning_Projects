@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.euronet.main.domain.User"/>
+<fullyQualifiedTypeName name="com.euronet.main.dto.UserWebDto"/>
+<fullyQualifiedTypeName name="com.euronet.main.builder.UserDtoBuilder"/>
+<fullyQualifiedTypeName name="com.euronet.main.builder.ConcreteUserWebDtoBuilder"/>
+<fullyQualifiedTypeName name="com.euronet.main.dto.UserDto"/>
+<fullyQualifiedTypeName name="java.time.Period"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.UserDetails"/>
+<fullyQualifiedTypeName name="com.euronet.main.builder.UserDetailsBuilder"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Circle"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Triangel"/>
+<fullyQualifiedTypeName name="com.euronet.main.factory.ShapesFactory"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Shapes"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Address"/>
+<fullyQualifiedTypeName name="javax.xml.stream.events.Comment"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Comments"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.LazyComments"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Employee"/>
+<fullyQualifiedTypeName name="com.euronet.main.adaptor.Customer"/>
+<fullyQualifiedTypeName name="com.euronet.main.adaptor.EmployeeClassAdapter"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.PlainText"/>
+<fullyQualifiedTypeName name="com.euronet.main.decorator.BoldDecorator"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Format"/>
+<fullyQualifiedTypeName name="com.euronet.main.decorator.ItalicDecorator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.Order"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.PriceObserver"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.OrderObserver"/>
+<fullyQualifiedTypeName name="com.euronet.main.domain.QuantityObserver"/>
+</qualifiedTypeNameHistroy>
